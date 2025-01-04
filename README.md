@@ -14,7 +14,7 @@
 - Pequenos desafios e soluções criativas.
 
 ### 📫 Como entrar em contato comigo:
-- ✉️ **[Seu Email ou outra forma de contato, se desejar]**
+- ✉️ **annafelix448@gmail.com**
 - 💬 Vamos trocar ideias e aprender juntos!
 
 ---
