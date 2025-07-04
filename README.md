@@ -2,7 +2,7 @@
 
 ![Banner](https://i.pinimg.com/736x/36/19/09/36190987c6cd3c29ec4f1ac202decbf1.jpg)
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtaayanamy&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtaayanamy&layout=compact&theme=radical)
