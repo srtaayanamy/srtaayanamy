@@ -6,8 +6,6 @@
 
 ![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtaayanamy&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtaayanamy&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=srtaayanamy&theme=radical)](https://git.io/streak-stats)
-
 
 ### 🚀 About Me
 
