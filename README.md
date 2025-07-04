@@ -2,10 +2,16 @@
 
 ![Banner](https://i.pinimg.com/736x/36/19/09/36190987c6cd3c29ec4f1ac202decbf1.jpg)
 
+## 📊 Estatísticas do GitHub
+
+![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtaayanamy&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtaayanamy&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=srtaayanamy&theme=radical)](https://git.io/streak-stats)
+
+
 ### 🚀 About Me
 
-🎓 My name is **Anna Félix**, a passionate **IT student** at **IFCE - Campus Cedro** (Brazil).  
-💡 I’m driven by creativity, curiosity, and the love of **turning ideas into code**.  
+🎓 My name is **Anna Félix**, a passionate **IT student** at **IFCE - Campus Cedro** (Brazil). 
 🌱 Constantly learning, experimenting, and growing in the tech world.
 
 Currently diving into:
